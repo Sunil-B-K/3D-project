@@ -6,7 +6,7 @@ import EndImg from "../assets/last-page.png";
 
 
 import FirstPage from "./Pages/Hero/FirstPage.jsx";
-import Skills from "./pages/Skills/Skills.jsx";
+
 import Services from "./Pages/Services/Services.jsx";
 import About from "./Pages/About/About.jsx";
 import Projects from "./Pages/Projects/Projects.jsx";
@@ -16,6 +16,7 @@ import ProjectImg2 from "../assets/projects/restaurant.jpg";
 import ProjectImg3 from "../assets/projects/ecommerce.jpg";
 import ProjectImg4 from "../assets/projects/travel-website.jpg";
 import Second from "./Second/Second.jsx";
+import Skills from "./pages/Skills/Skills.jsx";
 // import Contact from "./Contact/Contact.jsx";
 
 

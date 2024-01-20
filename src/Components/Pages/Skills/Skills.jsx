@@ -21,7 +21,7 @@ const Skills = () => {
                 </h1>
               </div>
             </div>
-            {/* <Level skillName="HTML" percentage={"90%"} /> */}
+           
             {/* skills section */}
             <div className="space-y-10">
               <Level skillName="HTML" percentage={"90%"} />
