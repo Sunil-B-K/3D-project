@@ -1,9 +1,9 @@
 import HTMLFlipBook from "react-pageflip";
 import Page from "./Page";
-import Cover from "./Pages/Cover/Cover.jsx";
+
 import coverImg from "../assets/cover.png";
 import EndImg from "../assets/last-page.png";
-
+import Cover from "./Pages/Cover/Cover.jsx";
 
 import FirstPage from "./Pages/Hero/FirstPage.jsx";
 import Skills from "./pages/Skills/Skills.jsx";
