@@ -16,8 +16,9 @@ import ProjectImg2 from "../assets/Projects/restaurant.jpg";
 import ProjectImg3 from "../assets/Projects/ecommerce.jpg";
 import ProjectImg4 from "../assets/Projects/travel-website.jpg";
 import Second from "./Second/Second.jsx";
-import Skills from "./pages/Skills/Skills.jsx";
-// import Contact from "./Contact/Contact.jsx";
+// import Skills from "./pages/Skills/Skills.jsx";
+import Skill from "./Pages/Skills/Skill.jsx";
+
 
 
 const ProjectData = [
@@ -59,7 +60,7 @@ const ProjectData = [
                 <Second coverImg={coverImg} title="MyPortfolio" />
             </Page>
             <Page number={2}><FirstPage /></Page>
-            <Page number={3}><Skills /></Page>
+            <Page number={3}><Skill /></Page>
             <Page number={4}><Services /></Page>
             <Page number={5}><About /></Page>
             <Page number={6}><Projects ProjectData={ProjectData} /></Page>

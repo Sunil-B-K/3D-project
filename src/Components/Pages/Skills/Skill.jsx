@@ -1,12 +1,12 @@
 import React from 'react';
-import Level from './Level';
+import Level from './Levels';
 
 
 
 
 
 
-const Skills = () => {
+const Skill = () => {
     return (
         <div className="h-full page-shadow bg-white px-10">
           <div>
@@ -21,8 +21,7 @@ const Skills = () => {
                 </h1>
               </div>
             </div>
-           
-            {/* skills section */}
+
             <div className="space-y-10">
               <Level skillName="HTML" percentage={"90%"} />
               <Level skillName="CSS" percentage="95%" />
@@ -35,4 +34,4 @@ const Skills = () => {
       );
 }
 
-export default Skills
+export default Skill
