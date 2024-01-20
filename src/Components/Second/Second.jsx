@@ -9,7 +9,7 @@ const Second = ({ coverImg, title }) => {
         backgroundPosition: "center",
         
         width: "100%",
-      };
+      }
 
 
       return (
@@ -20,7 +20,7 @@ const Second = ({ coverImg, title }) => {
             </h1>
           </div>
         </div>
-      );
+      )
 }
 
 export default Second
